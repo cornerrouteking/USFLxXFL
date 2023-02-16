@@ -1,7 +1,7 @@
 # USFLxXFL Mod Download
 
 <p align="center">
-  <img width="750" src="https://github.com/cornerrouteking/USFLxXFL/blob/master/tools/USFL_Logo-svg%20(1).png">
+  <img width="480" src="https://github.com/cornerrouteking/USFLxXFL/blob/master/tools/USFL_Logo-svg%20(1).png">
 </p>
 
 ---------
