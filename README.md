@@ -11,7 +11,7 @@
 ---------
 ## [Installation Tutorial](bit.ly/USFLxXFLInstall) 
 ## Select Your Madden Game
-| <a href="https://discord.com/channels/958358518891683841/958359796178894868"><img width="300" src="https://github.com/cornerrouteking/USFLxXFL/blob/master/tools/madden-22-qbs-1623952148822.jpg"></a>  | <a href="https://www.mediafire.com/file/ssjtuxy4xe3oet4/USFLxXFLV1.rar/file"><img width="300" src="https://github.com/cornerrouteking/USFLxXFL/blob/master/tools/madden-23-cover.jpg"> | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/xbox_warning.md">
+| <a href="https://discord.com/channels/958358518891683841/958359796178894868"><img width="300" src="https://github.com/cornerrouteking/USFLxXFL/blob/master/tools/madden-22-qbs-1623952148822.jpg"></a>  | <a href="https://www.mediafire.com/file/ssjtuxy4xe3oet4/USFLxXFLV1.rar/file"><img width="300" src="https://github.com/cornerrouteking/USFLxXFL/blob/master/tools/madden-23-cover.jpg"> | <a href="">
 |:---:|:---:|:---:|
 | [Madden 22 (UNRELEASED)](https://discord.com/channels/958358518891683841/958359796178894868) | [Madden 23](https://www.mediafire.com/file/ssjtuxy4xe3oet4/USFLxXFLV1.rar/file)
 
