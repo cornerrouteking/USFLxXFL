@@ -1,4 +1,4 @@
-# College Football Revamped v20.1 Update
+# USFLxXFL Mod Download
 
 <p align="center">
   <img width="750" src="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/images/CFBR.png">
@@ -12,30 +12,8 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 - <img width="20" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png"> [Twitter](https://twitter.com/CFBRevamped)
 - <img width="20" src="https://icon-library.com/images/62-instagram-512.png"> [Instagram](https://www.instagram.com/cfbrevamped/)
 - <img width="20" src="https://img.favpng.com/0/5/6/youtube-logo-png-favpng-9aSw7LevnfxZKMvi1vS7BATkQ.jpg"> [YouTube](https://www.youtube.com/channel/UCCY9bWCdGvitI2YyO5o4sQg?)
----------
 
-## Known Mod Issues:
-- **Pink (or miscolored) cleats for Charlotte, Coastal Carolina, App State, Georgia Southern, and Pitt in uniform select:** This is glitch with the original game that we cannot fix. The issue will only show during uniform select. All team colors will properly show in game. 
-
-Of course, if you have any additonal questions, please join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
-
----------
-
-# College Football Revamped - Installation Guide
-
-## - Each release includes ALL prior versions. Simply install the latest version to enjoy all of our latest mods!
-## - YOU <ins>DO NOT</ins> NEED TO DELETE OR REMOVE ANY PRIOR VERSIONS.
-
----------
-
-## Current Releases:
-| **System** | **Release** | **Release Date** | **Patch Notes** |
-|:----|:----|:----|:----|
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"> | v20.1 | 1/13/2023 | [v20.1 PC Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | v20.1 | 1/13/2023 | [v20.1 PS3 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/PC-PS3.md)
-| <img height="30" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox-small.png"> | v20.1 | 1/13/2023 | [v20.1 XBOX 360 Patch Notes](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/assets/release-notes/xbox.md)
-
-## Select Your Device - (PC, PS3, or XBOX 360)
+## Select Your Madden Game - (22, or 23)
 | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PC.jpg"></a>  | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/PS3.png"> | <a href="https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/xbox_warning.md"><img width="300" src="https://raw.githubusercontent.com/cfbrevamped/CFBR-Easy-Installer/master/assets/images/xbox.jpg">
 |:---:|:---:|:---:|
 | [PC](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR-Easy-Installer/blob/master/XBOX/xbox_warning.md) |
